@@ -2,17 +2,4 @@ afasdcfgasdgasdgagdf
 
 
 12312412312
-<<<<<<< HEAD
 
-hello 
-
-good
-
-123
-456
-789
-ABC
-DFG
-WEE
-=======
->>>>>>> parent of 806cd68... 12
