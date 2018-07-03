@@ -2,6 +2,7 @@ afasdcfgasdgasdgagdf
 
 
 12312412312
+<<<<<<< HEAD
 
 hello 
 
@@ -13,3 +14,5 @@ good
 ABC
 DFG
 WEE
+=======
+>>>>>>> parent of 806cd68... 12
